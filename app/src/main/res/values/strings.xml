@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KoinExample</string>
+    <string name="next">Next</string>
+    <string name="firstfragment">FirstFragment</string>
+    <string name="secondfragment">SecondFragment</string>
+    <string name="thirdfragment">ThirdFragment</string>
+</resources>
